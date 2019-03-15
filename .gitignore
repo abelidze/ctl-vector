@@ -1,0 +1,9 @@
+dev/
+bin/
+log/
+*.exe
+*.dll
+*.so
+*.txt
+*.o
+*.obj
